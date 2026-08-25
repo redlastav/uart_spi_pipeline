@@ -1,0 +1,8 @@
+{
+    "DESIGN_NAME": "spi_master",
+    "VERILOG_FILES": "dir::src/spi_master.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 20,
+    "FP_SIZING": "absolute",
+    "DIE_AREA": "0 0 200 200"
+}

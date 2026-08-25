@@ -1,0 +1,8 @@
+{
+    "DESIGN_NAME": "uart_rx",
+    "VERILOG_FILES": "dir::src/uart_rx.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 20,
+    "FP_SIZING": "absolute",
+    "DIE_AREA": "0 0 200 200"
+}
